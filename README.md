@@ -97,3 +97,5 @@ Alexandre Venâncio
 Senior Full Stack Engineer
 
 Future AI Solutions Architect
+# ai-engineering-knowledge-base
+Enterprise AI Engineering Learning System
