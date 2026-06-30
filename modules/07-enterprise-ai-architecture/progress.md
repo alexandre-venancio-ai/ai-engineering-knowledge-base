@@ -1,0 +1,40 @@
+# Progress
+
+Lessons
+
+- [ ] Lesson 01
+- [ ] Lesson 02
+- [ ] Lesson 03
+- [ ] Lesson 04
+- [ ] Lesson 05
+- [ ] Lesson 06
+- [ ] Lesson 07
+- [ ] Lesson 08
+
+---
+
+Labs
+
+- [ ] Lab 01
+
+- [ ] Lab 02
+
+- [ ] Lab 03
+
+---
+
+Documentation
+
+- [ ] Notes
+
+- [ ] Mind Map
+
+- [ ] Interview Notes
+
+- [ ] English Notes
+
+---
+
+Completed
+
+0%
