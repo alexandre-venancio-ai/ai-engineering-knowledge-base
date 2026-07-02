@@ -51,3 +51,25 @@
 - Replaced traditional "Course" approach with an Engineering Specialization model.
 - Adopted Workshop / Lecture / Lab / Project terminology.
 - Reinforced "Problem First. Technology Second." philosophy.
+
+---
+
+## 2026-07-01
+
+### Completed
+
+- Finished Lecture 02 — How Large Language Models Really Work.
+- Studied:
+  - Tokens
+  - Token IDs
+  - Embeddings
+  - Self-Attention
+  - Transformer processing flow
+  - Next Token Prediction
+- Completed Lecture Review connecting Lecture 01 and Lecture 02.
+- Created Lab 002.
+- Standardized AI Engineering explanations using precise technical terminology.
+- Updated Git repository.
+- Added improvements to Git workflow.
+- Configured .gitignore to ignore Notepad++ backup folders.
+

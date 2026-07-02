@@ -69,3 +69,24 @@ Prepare the complete AI Engineering study environment.
 - [ ] Lecture 2 — How LLMs Really Work
 - [ ] Lab 002
 - [ ] Reflection 002
+
+## Sprint 3
+
+### Completed
+
+- [x] Lecture 02
+- [x] Lecture 02 Review
+- [x] Git Workflow Improvements
+- [x] Repository synchronization
+- [x] Lab 002 specification
+
+### In Progress
+
+- [ ] Lab 002 documentation
+
+### Next
+
+- [ ] Lecture 03 — Embeddings in Depth
+- [ ] Semantic Search
+- [ ] Vector Spaces
+- [ ] Vector Databases

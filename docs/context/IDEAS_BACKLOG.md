@@ -89,3 +89,24 @@ docs/context/MENTAL_MODELS.md
 Purpose:
 
 Store all mental models introduced during the specialization.
+
+## Idea
+
+Create a permanent Reading Pack structure for every lecture.
+
+Description:
+
+Each lecture should include:
+
+- Official bibliography
+- Reading order
+- Estimated reading time
+- Learning objectives
+- Reflection questions
+- NotebookLM prompt
+- Recommended references
+
+Status:
+Planned
+Priority:
+Medium
