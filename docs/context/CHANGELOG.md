@@ -73,3 +73,42 @@
 - Added improvements to Git workflow.
 - Configured .gitignore to ignore Notepad++ backup folders.
 
+## 2026-07-05
+
+### Added
+
+- Pipeline Stage architecture.
+- Document Loading Stage.
+- Chunking Stage.
+- Functional transformation using map().
+- First architecture refactoring based on code review.
+
+### Improved
+
+- Chunk generation algorithm.
+- Project modularization.
+- Separation of responsibilities.
+- Code readability.
+
+## 2026-07-06
+
+### Added
+
+- Embedding Service abstraction.
+- Vector Store abstraction.
+- Retrieval Pipeline architecture.
+- Cosine Similarity implementation.
+- Semantic Search service.
+- Retrieval ranking using similarity scores.
+
+### Refactored
+
+- Chunking Stage now produces chunk objects with text and embeddings.
+- Indexing Pipeline now persists vectors through the Vector Store abstraction.
+
+### Learning
+
+- Difference between Indexing Pipeline and Retrieval Pipeline.
+- Vector Databases.
+- Cosine Similarity.
+- Retrieval process inside a RAG application.

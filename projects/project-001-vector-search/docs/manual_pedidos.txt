@@ -1,0 +1,9 @@
+Pedidos de Venda
+
+Para criar um pedido selecione o cliente.
+
+Depois informe os produtos.
+
+Confira o estoque disponível.
+
+Grave o pedido para envio ao faturamento.

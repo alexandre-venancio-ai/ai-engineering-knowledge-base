@@ -70,23 +70,26 @@ Prepare the complete AI Engineering study environment.
 - [ ] Lab 002
 - [ ] Reflection 002
 
-## Sprint 3
+## Sprint 3 — RAG Foundations
 
 ### Completed
 
-- [x] Lecture 02
-- [x] Lecture 02 Review
-- [x] Git Workflow Improvements
-- [x] Repository synchronization
-- [x] Lab 002 specification
+- [x] Document Loader
+- [x] Chunk Service
+- [x] Chunking Stage
+- [x] Embedding Service (Mock)
+- [x] Vector Store (Mock)
+- [x] Indexing Pipeline
+- [x] Retrieval Pipeline
+- [x] Cosine Similarity
+- [x] Semantic Search
 
 ### In Progress
 
-- [ ] Lab 002 documentation
+- [ ] OpenAI Embedding Integration
 
 ### Next
 
-- [ ] Lecture 03 — Embeddings in Depth
-- [ ] Semantic Search
-- [ ] Vector Spaces
-- [ ] Vector Databases
+- Replace fake embeddings with OpenAI.
+- Validate semantic search with real embeddings.
+- Introduce Vector Database (Qdrant / ChromaDB).

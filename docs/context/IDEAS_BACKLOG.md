@@ -110,3 +110,6 @@ Status:
 Planned
 Priority:
 Medium
+
+
+- Create a reusable AI Pipeline Framework that can support multiple ingestion stages (Loader, Chunking, Embeddings, Retrieval and Generation) for future projects.

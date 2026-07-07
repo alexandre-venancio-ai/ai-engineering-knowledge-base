@@ -100,3 +100,40 @@ Understanding that a Large Language Model does not retrieve ready-made answers f
 ## Personal Evaluation
 
 The distinction between Token IDs, Embeddings and Self-Attention became much clearer during this session. The internal processing flow of a Large Language Model is now understandable as a sequence of mathematical transformations rather than as a "black box".
+
+## 2026-07-05
+
+### Main Learnings
+
+- The difference between imperative and declarative programming became much clearer through the use of map().
+- A Pipeline should orchestrate stages instead of implementing business logic.
+- Each Stage should have a single responsibility.
+- Chunking is a transformation process applied independently to each document.
+- A good architecture simplifies future AI integrations such as Embeddings and Vector Databases.
+
+### Personal Insight
+
+Today I realized that AI Engineering is much closer to Software Engineering than I initially imagined. Building a clean architecture before introducing AI components makes future evolution significantly easier.
+
+## 2026-07-06
+
+### Main Learnings
+
+Today I completed the entire architecture of a Retrieval Augmented Generation (RAG) system before integrating any real AI model.
+
+Key concepts learned:
+
+- Embedding models are independent from LLMs.
+- Vector Databases store embeddings instead of raw text.
+- Retrieval Pipeline is completely separated from the Indexing Pipeline.
+- Cosine Similarity is the foundation of semantic search.
+- Good architecture allows replacing the Embedding Model without changing the application flow.
+
+### Biggest Insight
+
+A production RAG application is fundamentally composed of two independent pipelines:
+
+- Indexing Pipeline (offline)
+- Retrieval Pipeline (online)
+
+The LLM is only responsible for generating the final response after the relevant context has already been retrieved.

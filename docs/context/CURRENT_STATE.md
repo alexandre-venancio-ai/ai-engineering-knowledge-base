@@ -2,11 +2,11 @@
 
 ## Date
 
-2026-07-01
+2026-07-06
 
 ## Current Phase
 
-Phase 1 — AI Foundations
+Lecture 5 — Retrieval Pipeline
 
 ## Current Sprint
 
@@ -18,38 +18,38 @@ Module 01 — AI Foundations
 
 ## Current Lecture
 
-Lecture 2 — How Large Language Models Really Work
+Lecture 5 — Retrieval Pipeline
 
 ## Progress
 
 Completed today:
 
-- Completed Lecture 2.
-- Studied the complete LLM processing flow.
-- Understood the difference between Tokens, Token IDs and Embeddings.
-- Learned how Self-Attention contextualizes token meanings.
-- Understood how the Transformer predicts the next token.
-- Completed the technical review connecting Lecture 1 and Lecture 2.
-- Completed Lab 002 answers.
-- Improved technical terminology used to explain LLM concepts.
-- Updated the Git repository.
-- Configured `.gitignore` to ignore Notepad++ backup folders.
+- Implemented Embedding Service architecture.
+- Refactored Chunking Stage to generate chunk objects with embeddings.
+- Implemented Vector Store abstraction.
+- Refactored Indexing Pipeline to persist embeddings.
+- Studied Vector Database concepts.
+- Studied Cosine Similarity.
+- Implemented Cosine Similarity helper.
+- Implemented Semantic Search architecture.
+- Built the complete Retrieval Pipeline using fake embeddings.
+- Understood the separation between Indexing Pipeline and Retrieval Pipeline.
+- Completed Retrieval Pipeline architecture.
 
 ## Next Task
 
-Start Lecture 3:
-
-Embeddings in Depth
+Lecture 6 — Real Embeddings with OpenAI
 
 Topics:
 
-- Embedding Space
-- Semantic Similarity
-- Cosine Similarity
-- Vector Databases
-- Semantic Search
-- RAG Foundations
+- OpenAI SDK
+- API Keys
+- text-embedding-3-small
+- Generating real embeddings
+- Replacing fake EmbeddingService
+- Validating semantic search using real vectors
 
 Status:
 
-Ready to continue.
+Architecture completed.
+Ready to integrate the first real AI model.

@@ -1,0 +1,5 @@
+Financeiro
+
+O bloqueio financeiro ocorre quando o cliente possui títulos vencidos ou ultrapassa seu limite de crédito.
+
+Pedidos bloqueados aguardam aprovação.

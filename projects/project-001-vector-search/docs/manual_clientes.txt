@@ -1,0 +1,12 @@
+Cadastro de Clientes
+
+Para cadastrar um novo cliente acesse o módulo de Cadastros.
+
+Informe:
+
+- Nome
+- CPF/CNPJ
+- Endereço
+- Condição de pagamento
+
+Após salvar o cadastro o cliente poderá realizar pedidos.
